@@ -1,0 +1,145 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/modeltech64_10.4/work
+T_opt
+!s110 1730515643
+VI^9]K5zjbZidQ6LX:iWT[1
+04 10 4 work Transister fast 0
+=1-088fc3685457-672592b9-350-53d4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4;61
+R0
+vBranch_Test
+!s110 1730516110
+!i10b 1
+!s100 @QJ;8M`O=8C:;@coXlT<K0
+I>:Wj05knZl`k]TSfb>kjN2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test
+w1730516105
+8D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Branch_Test.v
+FD:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Branch_Test.v
+L0 1
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1730516110.709000
+!s107 D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Branch_Test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Branch_Test.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@branch_@test
+vID
+Z5 !s110 1730516046
+!i10b 1
+!s100 G4_m@Z:lUC@Q:6`NJbzmN0
+I?0Clz=NA]C`MPfeX9i>RB3
+R1
+R2
+w1729819227
+8D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/ID.v
+FD:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/ID.v
+L0 6
+R3
+r1
+!s85 0
+31
+!s108 1730516046.735000
+!s107 D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/ID.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/ID.v|
+!i113 0
+R4
+n@i@d
+vMUX2_1
+R5
+!i10b 1
+!s100 klQ_iMZbhh=6^g85Pf>Dc0
+InQRkNI55DCX7GmlJVzP[<0
+R1
+R2
+w1729664646
+8D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/MUX2_1.v
+FD:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/MUX2_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1730516046.937000
+!s107 D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/MUX2_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/MUX2_1.v|
+!i113 0
+R4
+n@m@u@x2_1
+vRegisters
+R5
+!i10b 1
+!s100 Kz4WO=RNn6bWBRV@cAlGM2
+IJ6dM_N8V9VNAVDFz7;z4J1
+R1
+R2
+w1729818580
+8D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers.v
+FD:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1730516046.831000
+!s107 D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers.v|
+!i113 0
+R4
+n@registers
+vRegisters_tb
+Z6 !s110 1730516047
+!i10b 1
+!s100 @n@K99HbUjQM8IF5dY2mW0
+I=:TUS=MDiZ;OH>`@R92Hf0
+R1
+R2
+w1730515234
+8D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers_tb.v
+FD:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1730516047.204000
+!s107 D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers_tb.v|
+!i113 0
+R4
+n@registers_tb
+vTransister
+R6
+!i10b 1
+!s100 :FM3mO^Ah8MeW6^]hk5Ik3
+ID1N;>@^J[kbOMWD_2GDJC3
+R1
+R2
+w1729819073
+8D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Transister.v
+FD:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Transister.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1730516047.029000
+!s107 D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Transister.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Transister.v|
+!i113 0
+R4
+n@transister

@@ -1,0 +1,43 @@
+{D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/MUX2_1.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/MUX2_1.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MUX2_1
+
+Top level modules:
+	MUX2_1
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Registers
+
+Top level modules:
+	Registers
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Branch_Test.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Branch_Test.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Branch_Test
+
+Top level modules:
+	Branch_Test
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers_tb.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Registers_tb
+
+Top level modules:
+	Registers_tb
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/ID.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/ID.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Transister.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Transister.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Transister
+
+Top level modules:
+	Transister
+
+} {} {}}

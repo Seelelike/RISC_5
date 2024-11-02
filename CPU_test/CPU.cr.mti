@@ -1,0 +1,106 @@
+{D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/EX.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/EX.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module EX
+
+Top level modules:
+	EX
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Branch_Test.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Branch_Test.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Branch_Test
+
+Top level modules:
+	Branch_Test
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/ID.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/ID.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/src/Risc5CPU_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/src/Risc5CPU_tb.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Risc5CPU_tb_v
+
+Top level modules:
+	Risc5CPU_tb_v
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/IF.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/IF.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module IF
+
+Top level modules:
+	IF
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Registers.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Registers
+
+Top level modules:
+	Registers
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/InstructionROM.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/InstructionROM.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module InstructionROM
+
+Top level modules:
+	InstructionROM
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/CPU_test/ROM.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/CPU_test/ROM.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/src/adder_32bits.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/src/adder_32bits.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits
+
+Top level modules:
+	adder_32bits
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/MUX2_1.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/MUX2_1.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MUX2_1
+
+Top level modules:
+	MUX2_1
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/src/adder_8bits.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/src/adder_8bits.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_8bits
+
+Top level modules:
+	adder_8bits
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Transister.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/ID_test/Transister.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Transister
+
+Top level modules:
+	Transister
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/src/Decode.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/src/Decode.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Decode
+
+Top level modules:
+	Decode
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/src/Risc5CPU.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/src/Risc5CPU.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Risc5CPU
+
+Top level modules:
+	Risc5CPU
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/ALU.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/ALU.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

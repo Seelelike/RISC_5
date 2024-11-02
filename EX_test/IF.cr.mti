@@ -1,0 +1,22 @@
+{D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/IF_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/IF_tb.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module IF_tb
+
+Top level modules:
+	IF_tb
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/InstructionROM.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/InstructionROM.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module InstructionROM
+
+Top level modules:
+	InstructionROM
+
+} {} {}} {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/IF.v} {1 {vlog -work work -vopt -stats=none {D:/Course_Materials/Computer architecture/lab30_Risc5CPU/EX_test/IF.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module IF
+
+Top level modules:
+	IF
+
+} {} {}}
